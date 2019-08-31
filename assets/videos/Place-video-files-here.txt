@@ -5,7 +5,7 @@ Formats for Chrome & Firefox:
 .ogg
 
 Formats for Safari:
-.mp4
+demo.mp4
 .mov
 
 Optimal video resolutions:
